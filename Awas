@@ -49,6 +49,9 @@ https://raw.githubusercontent.com/Jelek318/Ch/main/Sctv1
 #EXTINF:-1 tvg-id="" tvg-name="RCTI" tvg-logo="" group-title="VIZO",RCTI
 https://raw.githubusercontent.com/Jelek318/Ch/main/Rcti
 
+#EXTINF:-1 group-title="VIZO" tvg-id="" tvg-logo="",RCTI 1
+https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/10
+
 #EXTINF:-1 tvg-id="" tvg-name="MNC TV" tvg-logo="" group-title="VIZO",MNC TV
 https://raw.githubusercontent.com/Jelek318/Ch/main/Mnctv
 
