@@ -7,85 +7,112 @@ https://raw.githubusercontent.com/Jelek318/Ch/main/Euro1
 
 
 #EXTINF:-1 tvg-id="" tvg-name="EURO 2024 - 2" tvg-logo="https://sgn.play-hometv.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIlRs1N9IxvCic4hzBiGaZJw.png" group-title="VIZO",EURO 2024 - 2
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://raw.githubusercontent.com/Jelek318/Ch/main/Euro2
 
 #EXTINF:-1 tvg-id="" tvg-name="EURO 2024 - 3" tvg-logo="https://sgn.play-hometv.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIlRs1N9IxvCic4hzBiGaZJw.png" group-title="VIZO",EURO 2024 - 3
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://raw.githubusercontent.com/Jelek318/Ch/main/SpotvStadia
 
 #EXTINF:-1 tvg-id="" tvg-name="EURO 2024 - 4" tvg-logo="https://sgn.play-hometv.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIlRs1N9IxvCic4hzBiGaZJw.png" group-title="VIZO",EURO 2024 - 4
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://raw.githubusercontent.com/Jelek318/Ch/main/Euro4
 
 #EXTINF:-1 tvg-id="" tvg-name="EURO 2024 - 5" tvg-logo="https://sgn.play-hometv.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIlRs1N9IxvCic4hzBiGaZJw.png" group-title="VIZO",EURO 2024 - 5
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://raw.githubusercontent.com/Jelek318/Ch/main/Euro5
 
 #EXTINF:-1 tvg-id="" tvg-name="EURO 2024 - 6" tvg-logo="https://sgn.play-hometv.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIlRs1N9IxvCic4hzBiGaZJw.png" group-title="VIZO",EURO 2024 - 6
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://raw.githubusercontent.com/Jelek318/Ch/main/Euro6
 
 #EXTINF:-1 tvg-id="" tvg-name="EURO 2024 - 7" tvg-logo="https://sgn.play-hometv.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIlRs1N9IxvCic4hzBiGaZJw.png" group-title="VIZO",EURO 2024 - 7
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://raw.githubusercontent.com/Jelek318/Ch/main/Euro7
 
 #EXTINF:-1 tvg-id="" tvg-name="INDOSIAR LOKAL 1" tvg-logo="" group-title="VIZO",INDOSIAR LOKAL 1
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://raw.githubusercontent.com/Jelek318/Ch/main/Indosiar
 
 #EXTINF:-1 tvg-id="" tvg-name="SCTV LOKAL 1" tvg-logo="" group-title="VIZO",SCTV LOKAL 1
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://raw.githubusercontent.com/Jelek318/Ch/main/Sctv
 
 #EXTINF:-1 tvg-id="" tvg-name="TRANS 7" tvg-logo="" group-title="VIZO",TRANS 7
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://raw.githubusercontent.com/Jelek318/Ch/main/Trans7
 
 #EXTINF:-1 tvg-id="" tvg-name="TRANS TV" tvg-logo="" group-title="VIZO",TRANS TV
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://raw.githubusercontent.com/Jelek318/Ch/main/TransTV
 
 #EXTINF:-1 tvg-id="" tvg-name="TRANS TV 1" tvg-logo="" group-title="VIZO",TRANS TV 1
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://raw.githubusercontent.com/Jelek318/Ch/main/Transtv1
 
 
 #EXTINF:-1 tvg-id="" tvg-name="INDOSIAR" tvg-logo="" group-title="VIZO",INDOSIAR
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://raw.githubusercontent.com/Jelek318/Ch/main/Indosiar1
 
 #EXTINF:-1 tvg-id="" tvg-name="SCTV" tvg-logo="" group-title="VIZO",SCTV
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://raw.githubusercontent.com/Jelek318/Ch/main/Sctv1
 
 #EXTINF:-1 tvg-id="" tvg-name="RCTI" tvg-logo="" group-title="VIZO",RCTI
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://raw.githubusercontent.com/Jelek318/Ch/main/Rcti
 
 #EXTINF:-1 group-title="VIZO" tvg-id="" tvg-logo="",RCTI 1
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/10
 
 #EXTINF:-1 tvg-id="" tvg-name="MNC TV" tvg-logo="" group-title="VIZO",MNC TV
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://raw.githubusercontent.com/Jelek318/Ch/main/Mnctv
 
 #EXTINF:-1 tvg-id="" tvg-name="GTV" tvg-logo="" group-title="VIZO",GTV
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://raw.githubusercontent.com/Jelek318/Ch/main/Gtv
 
 #EXTINF:-1 tvg-id="" tvg-name="iNEWS" tvg-logo="" group-title="VIZO",iNEWS
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://raw.githubusercontent.com/Jelek318/Ch/main/Inews
 
 #EXTINF:-1 tvg-id="" tvg-name="ANTV" tvg-logo="" group-title="VIZO",ANTV
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://raw.githubusercontent.com/Jelek318/Ch/main/Antv
 
 #EXTINF:-1 tvg-id="" tvg-name="TV ONE" tvg-logo="" group-title="VIZO",TV ONE
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://raw.githubusercontent.com/Jelek318/Ch/main/Tvone
 
 #EXTINF:-1 tvg-id="" tvg-name="NET TV" tvg-logo="" group-title="VIZO",NET TV
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://raw.githubusercontent.com/Jelek318/Ch/main/Net
 
 #EXTINF:-1 tvg-id="" tvg-name="METRO TV" tvg-logo="" group-title="VIZO",METRO TV
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://raw.githubusercontent.com/Jelek318/Ch/main/Metro
 
 #EXTINF:-1 tvg-id="" tvg-name="KOMPAS TV" tvg-logo="" group-title="VIZO",KOMPAS TV
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://raw.githubusercontent.com/Jelek318/Ch/main/Kompas
 
 #EXTINF:-1 tvg-id="" tvg-name="RTV" tvg-logo="" group-title="VIZO",RTV
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://raw.githubusercontent.com/Jelek318/Ch/main/Rtv
 
 #EXTINF:-1 tvg-id="" tvg-name="TVRI" tvg-logo="" group-title="VIZO",TVRI
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://raw.githubusercontent.com/Jelek318/Ch/main/Tvri
 
 #EXTINF:-1 tvg-id="" tvg-name="BERITA SATU" tvg-logo="" group-title="VIZO",BERITA SATU
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://raw.githubusercontent.com/Jelek318/Ch/main/Beritasatu
 
 #EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="" group-title="VIZO",HBO
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://raw.githubusercontent.com/Jelek318/Ch/main/Hbo
 
 #EXTINF:-1 tvg-id="" tvg-name="HBO HITS" tvg-logo="" group-title="VIZO",HBO HITS
