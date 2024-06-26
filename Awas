@@ -1,7 +1,9 @@
-
-
-
 #EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="TRANS 7 (1)" tvg-logo="" group-title="VIZO",TRANS 7 (1)
+#EXTVLCOPT:http-user-agent=Opera/9.80 (Windows NT 6.0) Presto/2.12.388 Version/12.14
+https://raw.githubusercontent.com/Jelek318/Ch/main/Trans7
+
 #EXTINF:-1 tvg-id="" tvg-name="EURO 2024 - 1" tvg-logo="https://sgn.play-hometv.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIlRs1N9IxvCic4hzBiGaZJw.png" group-title="VIZO",EURO 2024 - 1
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://raw.githubusercontent.com/Jelek318/Ch/main/Euro1
