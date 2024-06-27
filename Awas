@@ -1,5 +1,6 @@
 #EXTM3U
 
+
 #EXTINF:-1 tvg-id="" tvg-name="TRANS 7 (1)" tvg-logo="" group-title="VIZO",TRANS 7 (1)
 #EXTVLCOPT:http-user-agent=Opera/9.80 (Windows NT 6.0) Presto/2.12.388 Version/12.14
 https://raw.githubusercontent.com/Jelek318/Ch/main/Trans7
