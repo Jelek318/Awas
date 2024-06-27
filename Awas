@@ -1174,7 +1174,7 @@ http://iptvkita.my.id:25461/direct/hometv/1877
 =========================
 ================================= HOME TV  Pro================================================================================================================
 ========================================================================================================================================================
-#EXTINF:-1 group-title="HOME TV Pro" tvg-id="" tvg-logo="https://raw.githubusercontent.com/ghozitv/Playlist/main/LOGO.jpeg", NDOSIAR
+#EXTINF:-1 group-title="HOME TV Pro" tvg-id="" tvg-logo="https://raw.githubusercontent.com/ghozitv/Playlist/main/LOGO.jpeg", INDOSIAR
 #EXTVLCOPT:http-user-agent=ExoPlayer
 https://raw.githubusercontent.com/Jelek318/Ch/55a6e160e558b48079061c6838028bd2ada7fc5c/Indosiar1
 
