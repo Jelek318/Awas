@@ -46,8 +46,9 @@ http://iptvtree.net:8080/AmirBilali/76448035/157565
 http://iptvtree.net:8080/AmirBilali/76448035/157542
 
 
-
-
+#EXTINF:-1 tvg-id="" tvg-name="INDOSIAR 1" tvg-logo="" group-title="iptree",INDOSIAR 1
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
+http://iptvtree.net:8080/F14995/a84c0963/162138
 
 #EXTINF:-1 tvg-id="" tvg-name="SPORTSTAR4" tvg-logo="" group-title="VISION", SPORTSTAR4 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
