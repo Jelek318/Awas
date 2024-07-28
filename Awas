@@ -19,7 +19,7 @@ http://ktpremium.xyz:2095/live/yv2268/22681081/73617.ts
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
 #EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indiapremium1.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Sony_Sports_Network_Logo.png" group-title="olimpiade",paris
 #EXTVLCOPT:http-user-agent=Televizo (Linux; Android 10)
-http://ktpremium.xyz:2095/live/yv2268/22681081/1001116.ts
+http://38.114.121.150:2095/live/yv2268/22681081/1001116.ts?token=GEFeAEAMEQ5EUAsAUwBfAAoHUgAGBVACAAVVA1gPA1RRW1MCAFQBVVQRFUcSTBRRUgg6WwEVC1AHAAEDUABOQRYQUxNsDVcWXBEAVlUPXhYfRxFbCFITWwYHAgBQDltUU1MaQ0MNVxZcEQhVUQtQFh9HAEoRUkMPVlxvVgRACwAGQQwPRghfGERcVzoFXQtVXQFHCEcHE00VWUNCQwwMFg8PGkNRDUdGB0dcR1saVwIFUkceR1ReFFlEQktDDEA2MEEaQ1YcR1EIQFAKDxpcFkcWRx5HXkI+RVVDRhNTAw4GERRbEVQRGEReWB0+WwlaXQAGRgxYXxIVChIAQxpADgwNXxVcFmxED1cbX0MAXwYFRxg=
 
 
 
