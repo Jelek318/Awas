@@ -4,17 +4,11 @@
 ============================LOKAL============================
 
 
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-MEDIA-SEQUENCE:3
-#EXT-X-ALLOW-CACHE:YES
-#EXT-X-TARGETDURATION:10
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=10000
-#EXTINF:10.000000,
-#EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indiapremium1.xml" tvg-logo="" group-title="LOKAL", INDOSIAR 
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="LOKAL", INDOSIAR 
 #EXTVLCOPT:http-user-agent=Televizo (Linux; Android 10)
-http://51.159.104.43:2095/live/yv2268/22681081/73617.ts?token=GEFeAEAMEQ5EBV1VAw8AAFEDBwQHAAVWU1MFBFJUAAJQVw5ZVldVBAURFUcSTBRRUgg6WwEVC1YEBgEFTRQXEAYRaQhXRgkWXwANUlkaShZHDAhXRw0AVgUCAQtVD1NST0FGCFdGCRZSAwBVVxpKFlYdEVcXWVANaFRVRAhVB0FZDUMNX0gRWwhsXQAMWQhQEV9HAkcbEwhEQBIID0MOD09BVAhHFlJAAxEDR1gJUBYfRwZdEFlFE04SChA0ZUBPQQZOFVYKQF0JXRtfQ0wVFh9HDEE6RVQSQ0JVUwxTEEFZQQZDH0ZeVR5sWgoPVgNXRwwKXBYVC0MFEhwQDFkMChcMRD5DDVcWXBELVlUMVRZO
+https://raw.githubusercontent.com/Jelek318/Awas/main/Indosiar
+
+
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=video/mp2t
