@@ -7,6 +7,8 @@
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="LOKAL", INDOSIAR 
 http://ktpremium.xyz:2095/viewchannel.php?username=yv2268&password=22681081&channelid=73617
 
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="LOKAL", INDOSIAR 1
+http://ktpremium.xyz:2095/viewchannel.php?username=yv2268&password=22681081&channelid=73617
 
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
