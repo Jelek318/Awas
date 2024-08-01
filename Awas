@@ -9,8 +9,8 @@
 http://ktpremium.xyz:2095/viewchannel.php?username=yv2268&password=22681081&channelid=73617
 
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="LOKAL", INDOSIAR 1
-#EXTVLCOPT:http-user-agent=Televizo (Linux; Android 10)
-http://ktpremium.xyz:2095/viewchannel.php?username=yv2268&password=22681081&channelid=73617
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+http://ktpremium.xyz:2095/live/yv2268/22681081/73617.ts
 
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
