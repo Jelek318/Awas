@@ -5,9 +5,11 @@
 
 
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="LOKAL", INDOSIAR 
+#EXTVLCOPT:http-user-agent=Televizo (Linux; Android 10)
 http://ktpremium.xyz:2095/viewchannel.php?username=yv2268&password=22681081&channelid=73617
 
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="LOKAL", INDOSIAR 1
+#EXTVLCOPT:http-user-agent=Televizo (Linux; Android 10)
 http://ktpremium.xyz:2095/viewchannel.php?username=yv2268&password=22681081&channelid=73617
 
 
